@@ -1,0 +1,6 @@
+Corey Della Pietra
+Analysis of makeEmpty function
+
+The worst-case time complexity of the private member function makeEmpty(BinaryNode* 
+&t) is in O(n) in every case, becasue it must visit every node in a tree of any 
+given size, therefore it is linear to size n.
